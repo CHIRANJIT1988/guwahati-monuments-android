@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="home_activities">
+
+        <item>Kamakhya Temple</item>
+        <item>Balaji Temple</item>
+        <item>Umananda Temple</item>
+        <item>Basisthashram</item>
+        <item>Navagraha Temple</item>
+
+    </string-array>
+
+
+    <string-array name="home_activities_subtitle">
+
+        <item>Kamakhya Temple is located on top of the Nilachal hill, at a height of around eight hundred feet. It is an ancient Shakti peeth situated in the western part of Guwahati. The goddess Kamakhya is mostly worshipped by Hindus and specially the Tantric worshippers. It is an important pilgrimage centre of Assam. The present day temple was built during the Ahom times. The present structure has preserved the Shikhara characteristic of architecture, which is adorned with beautiful idols of Ganesha and other Hindu gods. The main temple is comprised of three major chambers, rectangular large western chamber, square shaped middle chamber and the narrow eastern chamber. But the most important part is the inner sanatorium or Garbhagraha.</item>
+        <item>His Holiness Sri Jayendra Saraswati, Sankaracharya of Kanchi Kamakoti Peetam, Tamil Nadu, felt that it would be desirable to have a Balaji Temple at Guwahati to bring peace and prosperity to the North Eastern parts of the country. In 1994, he exhorted his devotees to accomplish this task. It took less that four years to complete this mammoth task and The Balaji Temple and Cultural Complex came to reality on 4th of June 1998, when the Kumbhabhishekam (Pranpratistha) was done by Their Holinesses Sri Jayendra Saraswati and Sri Vijayendra Saraswati.</item>
+        <item>This Shiva temple is beautifully situated on the Peacock Island which is tucked at center of Brahmaputra River in Guwahati. It is located on the mountain called Bhasmacala and it can be accessed by boats from the bank of the river Brahmaputra This temple built by Ahom king Gadadhar Singha a devotee of Shiva, in the period 1681-1696 is dedicated to the presiding deity Umananda. Walls of the temple are decorated with exclusive sculptures and portraits of Hindu gods which are engraved in the rock walls. As per local belief, worshipping this god on Amavasya falling on Monday brings lots of prosperity. A colorful festival is celebrated every year in this temple on Siva Chaturdasi. Hordes of devotees rush to this temple during this festival.</item>
+        <item>This is a well known pilgrimage spot located in the southern-most part of Guwahati at the foot hills of Meghalaya. This ashram belonged to the great Vedic sage Bashistha. The region is bedecked by the scenic background of the rivers namely Sandhya, Lalita and Kanta which meet at this spot offering panoramic views to the visitors.</item>
+        <item>These are devoted to Navagraha or nine celestial bodies according to Hindu astronomy. Some of the temples of South India contain a Navagraha shrine, however Navagraha temples refer to the group of nine temples each dedicated to individual Graha. The Navgraha temple of Guwahati in Assam was built by Ahom king Rajeshwar Singha during end of 18th Century. The temple was renovated in 1923. It is adorned with nine Shivalingas which are representing the nine Grahas. They are covered with a colored cloth typical of each Graha. A shivalinga in the center represents the presence of Sun.</item>
+
+    </string-array>
+
+
+    <array name="home_activities_images_thumb">
+
+        <item>@drawable/kamakhya_thumb</item>
+        <item>@drawable/balaji_thumb</item>
+        <item>@drawable/umananda_thumb</item>
+        <item>@drawable/basistha_thumb</item>
+        <item>@drawable/navagraha_thumb</item>
+
+    </array>
+
+
+    <!--
+    <array name="home_activities_images">
+
+        <item>@drawable/kamakhya1</item>
+        <item>@drawable/balaji1</item>
+        <item>@drawable/umananda1</item>
+        <item>@drawable/basistha1</item>
+        <item>@drawable/navagraha1</item>
+
+    </array>
+    -->
+
+</resources>

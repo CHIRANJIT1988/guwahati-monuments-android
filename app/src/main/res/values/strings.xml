@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Monuments of Guwahati</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">How to Reach</string>
+
+</resources>
